@@ -1,4 +1,4 @@
-package com.example.tocm;
+package com.example.homepage;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.tocm", appContext.getPackageName());
+        assertEquals("com.example.homepage", appContext.getPackageName());
     }
 }

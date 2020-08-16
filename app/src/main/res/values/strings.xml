@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TOCM</string>
+    <string name="app_name">MOON CAFE</string>
+    <string name="food1">Value Meals</string>
+    <string name="food2">Beveragers</string>
+    <string name="food3">Cakes</string>
+    <string name="food4">Sweets</string>
+
+
 </resources>
