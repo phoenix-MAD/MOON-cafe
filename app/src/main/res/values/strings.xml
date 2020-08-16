@@ -1,18 +1,15 @@
 <resources>
-    <string name="app_name">login</string>
-    <string name="login_page_name">Login</string>
-    <string name="User_input_email_name">Enter Your Email</string>
-    <string name="User_input_password_name">Enter Your Password</string>
-    <string name="login_button">Login</string>
-    <string name="login_failed">Email or password not found,Please try again</string>
-    <string name="did_not_input_password_or_email_in_login">Please fill all the fields</string>
-    <string name="registration_page_name">User Registration </string>
-    <string name="user_input_email">Enter Your Email</string>
-    <string name="user_input_password">Enter Your Password</string>
-    <string name="sign_up_button">Sign Up</string>
-    <string name="already_login_button">Already sign up?login</string>
-    <string name="did_not_input_password_or_email_in_registration">Please fill all the fields </string>
-    <string name="something_wrong">Something went wrong</string>
-
+    <string name="app_name">Inquiry</string>
+    <item name="et_subject" type="id"/>
+    <item name="et_message" type="id"/>
+    <item name="et_name" type="id"/>
+    <item name="bt_send" type="id"/>
+    <string name="Inquiry_page">Inquiry</string>
+    <string name="user_input_name">Name</string>
+    <string name="user_input_email">Email</string>
+    <string name="user_input_inquiry">Inquiry</string>
+    <string name="Confirm_button">confirm</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
 
 </resources>
