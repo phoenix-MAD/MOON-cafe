@@ -1,0 +1,111 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="style_login">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@drawable/cake2</item>
+
+    </style>
+
+    <style name="style_for_login_heading">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FDFEFE</item>
+        <item name="android:textSize">60sp</item>
+
+    </style>
+
+    <style name="style_for_email">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="style_for_login_button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">@drawable/gradient</item>
+        <item name="android:text">Login</item>
+       <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">30sp</item>
+
+        <item name="android:visibility">visible</item>
+
+    </style>
+
+    <style name="style_for_sign_up_button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">@drawable/gradient</item>
+        <item name="android:text">Sign Up</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textViewStyle">bold</item>
+        <item name="android:visibility">visible</item>
+
+    </style>
+
+    <style name="style_login_icon">
+        <item name="android:layout_width">142dp</item>
+        <item name="android:layout_height">124dp</item>
+
+    </style>
+
+    <style name="style_user_registration">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@drawable/a</item>
+
+    </style>
+
+    <style name="style_for_registration_heading">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FDFEFE</item>
+        <item name="android:textSize">60sp</item>
+
+    </style>
+
+    <style name="style_for_email_in_registration">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="style_for_sign_up_button_registration">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">@drawable/gradient</item>
+        <item name="android:text">Sign Up</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textViewStyle">bold</item>
+        <item name="android:visibility">visible</item>
+
+    </style>
+
+
+
+
+
+
+
+</resources>
