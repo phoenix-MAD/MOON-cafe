@@ -1,18 +1,14 @@
 <resources>
-    <string name="app_name">login</string>
-    <string name="login_page_name">Login</string>
-    <string name="User_input_email_name">Enter Your Email</string>
-    <string name="User_input_password_name">Enter Your Password</string>
-    <string name="login_button">Login</string>
-    <string name="login_failed">Email or password not found,Please try again</string>
-    <string name="did_not_input_password_or_email_in_login">Please fill all the fields</string>
-    <string name="registration_page_name">User Registration </string>
-    <string name="user_input_email">Enter Your Email</string>
-    <string name="user_input_password">Enter Your Password</string>
-    <string name="sign_up_button">Sign Up</string>
-    <string name="already_login_button">Already sign up?login</string>
-    <string name="did_not_input_password_or_email_in_registration">Please fill all the fields </string>
-    <string name="something_wrong">Something went wrong</string>
-
+    <string name="app_name">BEVERAGES</string>
+    <string name="beverage_1">hot chocolate</string>
+    <string name="beve1_price">Rs:370.00</string>
+    <string name="beverage_2">Strawberry Juice</string>
+    <string name="beve2_price">Rs:240.00</string>
+    <string name="beverage_3">orange juice</string>
+    <string name="beve3_price">Rs:220.00</string>
+    <string name="beverage_4">Milkshake</string>
+    <string name="beve4_price">Rs:460.00</string>
+    <string name="add_but">ADD</string>
+    <string name="remove_but">REMOVE</string>
 
 </resources>
