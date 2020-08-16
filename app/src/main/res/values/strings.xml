@@ -1,13 +1,8 @@
 <resources>
-    <string name="app_name">Account</string>
-    <string name="action_sign_in_short">Account</string>
-    <string name="name">Name</string>
-    <string name="city">City</string>
-    <string name="address">address</string>
-    <string name="contact_number">Contact Number</string>
-    <string name="email">Email</string>
-    <string name="button_ok">Ok</string>
-    <string name="button_edit">Edit</string>
-    <string name="button_delete">Delete</string>
-
+    <string name="app_name">Promos</string>
+    <string name="page_name">PROMOS</string>
+    <string name="one_offer">Coco cake</string>
+    <string name="price_one">Rs.5999</string>
+    <string name="second_offer">Chicken burger,chips with coc </string>
+    <string name="price_two">Rs.2499</string>
 </resources>

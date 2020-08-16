@@ -6,83 +6,74 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    
-    <style name="style_account_page">
+
+    <style name="style_for_image1">
+        <item name="android:layout_width">371dp</item>
+        <item name="android:layout_height">171dp</item>
+
+    </style>
+
+    <style name="style_for_image2">
+        <item name="android:layout_width">356dp</item>
+        <item name="android:layout_height">52dp</item>
+
+    </style>
+
+    <style name="style_image3">
+        <item name="android:layout_width">181dp</item>
+        <item name="android:layout_height">149dp</item>
+    </style>
+
+    <style name="style_heading">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Promos</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">60dp</item>
+    </style>
+
+    <style name="style_scroll_view">
         <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">match_parent</item>
-        <item name="android:background">@drawable/images</item>
+        <item name="android:layout_height">wrap_content</item>
     </style>
 
-    <style name="style_for_account_heading">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:textColor">#FDFEFE</item>
-        <item name="android:textSize">60sp</item>
+    <style name="style_cake_title">
+        <item name="android:layout_width">176dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:text">Coco Cake</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">30sp</item>
     </style>
 
-    <style name="style_for_name">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:gravity">center</item>
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textColorHint">#FFFFFF</item>
-        <item name="android:textSize">30sp</item>
-        <item name="android:typeface">sans</item>
-    </style>
-    <style name="style_for_city">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:gravity">center</item>
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textColorHint">#FFFFFF</item>
-        <item name="android:textSize">30sp</item>
-        <item name="android:typeface">sans</item>
-    </style>
-    <style name="style_for_address">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:gravity">center</item>
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textColorHint">#FFFFFF</item>
-        <item name="android:textSize">30sp</item>
-        <item name="android:typeface">sans</item>
-    </style>
-    <style name="style_for_number">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:gravity">center</item>
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textColorHint">#FFFFFF</item>
-        <item name="android:textSize">30sp</item>
-        <item name="android:typeface">sans</item>
-    </style>
-    <style name="style_for_ok_button">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">80dp</item>
-        <item name="android:background">@drawable/gradient</item>
-        <item name="android:text">Login</item>
+        <style name="style_price1">
+            <item name="android:layout_width">135dp</item>
+            <item name="android:layout_height">49dp</item>
+            <item name="android:text">Rs.5999</item>
+            <item name="android:textColor">#FFFFFF</item>
+            <item name="android:textSize">24sp</item>
+            <item name="android:textStyle">bold</item>
+
+        </style>
+
+    <style name="style_bun_title">
+        <item name="android:layout_width">176dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:text">Chicken buger,chips with coc</item>
+        <item name="android:textAllCaps">true</item>
         <item name="android:textColor">#FFFFFF</item>
         <item name="android:textSize">30sp</item>
-        <item name="android:visibility">visible</item>
-    </style>
-    <style name="style_for_edit_button">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">80dp</item>
-        <item name="android:background">@drawable/gradient</item>
-        <item name="android:text">Login</item>
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textSize">30sp</item>
-        <item name="android:visibility">visible</item>
-    </style>
-    <style name="style_for_delete_button">
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">80dp</item>
-        <item name="android:background">@drawable/gradient</item>
-        <item name="android:text">Login</item>
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textSize">30sp</item>
-        <item name="android:visibility">visible</item>
     </style>
 
+    <style name="style_price2">
+        <item name="android:layout_width">135dp</item>
+        <item name="android:layout_height">49dp</item>
+        <item name="android:text">Rs.2499</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
 
 </resources>

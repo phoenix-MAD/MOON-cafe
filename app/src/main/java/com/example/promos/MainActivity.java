@@ -1,4 +1,4 @@
-package com.example.account;
+package com.example.promos;
 
 import androidx.appcompat.app.AppCompatActivity;
 
