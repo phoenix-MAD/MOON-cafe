@@ -1,18 +1,13 @@
 <resources>
-    <string name="app_name">login</string>
-    <string name="login_page_name">Login</string>
-    <string name="User_input_email_name">Enter Your Email</string>
-    <string name="User_input_password_name">Enter Your Password</string>
-    <string name="login_button">Login</string>
-    <string name="login_failed">Email or password not found,Please try again</string>
-    <string name="did_not_input_password_or_email_in_login">Please fill all the fields</string>
-    <string name="registration_page_name">User Registration </string>
-    <string name="user_input_email">Enter Your Email</string>
-    <string name="user_input_password">Enter Your Password</string>
-    <string name="sign_up_button">Sign Up</string>
-    <string name="already_login_button">Already sign up?login</string>
-    <string name="did_not_input_password_or_email_in_registration">Please fill all the fields </string>
-    <string name="something_wrong">Something went wrong</string>
+    <string name="app_name">MOON CAFE</string>
+    <string name="food1">Value Meals</string>
+    <string name="food1_button">click on Value Meals button</string>
+    <string name="food2">Beverages</string>
+    <string name="food2_button">click on Beverages button</string>
+    <string name="food3">Cakes</string>
+    <string name="food3_button">click on Cakes button</string>
+    <string name="food4">Sweets</string>
+    <string name="food4_button">click on Sweets button</string>
 
 
 </resources>
