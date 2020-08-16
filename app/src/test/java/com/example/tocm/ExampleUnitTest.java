@@ -1,4 +1,4 @@
-package com.example.promos;
+package com.example.tocm;
 
 import org.junit.Test;
 

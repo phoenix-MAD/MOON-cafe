@@ -1,4 +1,4 @@
-package com.example.promos;
+package com.example.tocm;
 
 import androidx.appcompat.app.AppCompatActivity;
 
